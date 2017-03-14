@@ -1,0 +1,25 @@
+{
+  "name": "trad",
+  "homepage": "https://github.com/Ronen-dev/trad",
+  "authors": [
+    "Ronn <ronenn.ma@gmail.com>"
+  ],
+  "description": "JavaScript client-side translation module",
+  "main": "trad.js",
+  "keywords": [
+    "translation",
+    "translate",
+    "js",
+    "javascript",
+    "client",
+    "trad"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
