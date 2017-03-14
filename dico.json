@@ -1,6 +1,15 @@
 {
-    0: [
-        "en": "Hello"
-        "fr": "Bonjour"
+    "default": [
+        "fr"
+    ],
+    "words": [
+        {
+            "en": "Hello",
+            "fr": "Bonjour"
+        },
+        {
+            "en": "How are you?",
+            "fr": "Comment vas-tu ?"
+        }
     ]
 }
